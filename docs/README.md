@@ -11,5 +11,5 @@ features:
   details: 知识点衔接紧密,注释明白,逻辑清楚。
 - title: 兴趣驱动
   details: 丰富的代码案例,页面效果驱动学习。
-footer: 云牧的个人博客
+footer: 月鸽鸽的个人笔记
 ---

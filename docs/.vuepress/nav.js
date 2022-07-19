@@ -1,20 +1,20 @@
 module.exports = [
     {
-        text: '博客笔记', link: '/guide/'
+        text: '笔记', link: '/guide/'
     },
     {
-        text: '面试手记',link:"/baodian/interview/"
+        text: '培训笔记',link:"/baodian/interview/"
 		// items: [
         //     {text: '初级开发篇', link: '/baodian/zero/'},
         //     {text: '中高进阶篇', link: '/baodian/high/'},
         // ]
     },
     {
-        text: '云牧杂谈',link:"/baodian/talk/"
+        text: '施工中',link:"/baodian/talk/"
     },
    
     {
-        text: 'B站首页', link: 'https://space.bilibili.com/145679856',
+        text: 'B站首页', link: 'https://space.bilibili.com/4417416',
 
     },
    

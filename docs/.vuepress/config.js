@@ -1,5 +1,5 @@
 module.exports = {
-  title: "云牧的个人博客",
+  title: "月鸽鸽的个人笔记",
   description: "My tech blog",
   port: "8080",
   head: [
